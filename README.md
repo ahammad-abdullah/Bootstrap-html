@@ -1,0 +1,1 @@
+This is just html file with some image slider
